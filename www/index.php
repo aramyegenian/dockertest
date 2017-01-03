@@ -4,6 +4,7 @@
  * wp-blog-header.php which does and tells WordPress to load the theme.
  * THIS IS BRANCH A
  * @package WordPress
+ * THIS IS BRANCH B
  */
 
 /**
