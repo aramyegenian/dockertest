@@ -1,4 +1,6 @@
 <?php
 phpinfo();
-echo "hello world";
+
+
+echo "this is feature_foo";
 ?>
